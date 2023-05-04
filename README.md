@@ -65,8 +65,8 @@ cd SMS-BOMBER
 ```bash
 python bomber.py
 ```
-> <h2><p align='center'><b>SCREENSHOT</b></p></h2>
-> <div align="center"><img align="center" alt="screenshot" src="assets/Screenshot.png"></div>
+> <h2><p align='center'><b>Screenshot</b></p></h2>
+> <div align="center"><img align="center" alt="screenshot" src="/aseets/Screenshot.png"></div>
 > <br><br>
 `` 📡 Get in Touch `` 
 <br>
