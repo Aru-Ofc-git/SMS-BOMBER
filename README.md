@@ -26,7 +26,8 @@ pkg install python
 ```bash
 sudo apt-get install python3
 ```
-
+> <h3>Windows</h3>
+> <p>Frist go <a href="https://www.python.org/downloads/">this</a> website and download python. Then install Python in your device and setup env veriable.</p>
 
 
 
