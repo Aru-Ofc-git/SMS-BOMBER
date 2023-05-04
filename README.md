@@ -18,6 +18,15 @@
 > <h2><p align='center'><b>HOW TO USE? </b></p></h2>
 > <p><i>At first you need to install Python and Git in your device</i></p>
 > <h2><p align='center'><b>Insall python</b></p></h2>
+> <h3>Termux</h3>
+```bash
+pkg install python
+```
+> <h3>Linux</h3>
+```bash
+sudo apt-get install python3
+```
+
 
 
 
