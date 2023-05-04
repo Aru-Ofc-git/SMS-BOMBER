@@ -1,0 +1,8 @@
+Welcome to ARU BOMBER!
+
+We will always monitor your account activity.
+And we will store your SMS bombing information.
+We will suspend your account without notice if you bomb someone excessively or someone is harassed because of the bombing. 
+Please note that if you create an account using false information in our system, we will suspend your account without notice.
+
+[Note: this tool is made for fun with friends only You use it at your own risk Developer is not responsible for any misuse thereof]
