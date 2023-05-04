@@ -15,6 +15,27 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-green?style=flat-square">
 </p>
 
+> <h2><p align='center'><b>HOW TO USE? </b></p></h2>
+> <p><i>At first you need to install Python and Git in your device</i></p>
+> <h2><p align='center'><b>Insall python</b></p></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 `` 📡 Get in Touch `` 
 <br>
